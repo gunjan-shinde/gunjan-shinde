@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Gunjan Shinde
+# 👋 Hey, I’m Gunjan Shinde
 
-🎓 I’m a recent **BCA graduate from Christ University** with a strong interest in building **AI systems that create real-world impact**. I’m particularly drawn to projects that blend technology with purpose—whether that means encouraging sustainable digital habits, enhancing how machines understand uncertainty, or applying data science to human health in space.
+🎓 I’m a recent **Bachelor of Computer Applications (BCA)** graduate from **Christ University**, driven by a deep curiosity about how **AI and data science** can make a real difference in the world.
+
+From building tools that promote sustainability to exploring how machines can better understand themselves, I enjoy working on projects where **technology meets purpose**. I’m especially interested in the intersection of **AI, human behavior, and impact-driven innovation**.
 
 ---
 
@@ -10,7 +12,7 @@
   A sustainability-focused app designed to help users track and reduce their digital carbon footprint, featuring a real-time carbon calculator, AI-generated eco tips, gamification, and a “What If” simulator.
 
 - **🤖 SelfDoubt.AI**  
-  A conceptual exploration into how AI models might evaluate their own uncertainty, with the aim of building more introspective and adaptive systems.
+  A conceptual exploration into how AI models might evaluate their own uncertainty — toward building more introspective and adaptive systems.
 
 - **🧬 MetaForgetting.AI**  
   Inspired by how human memory evolves, this project investigates how AI models can retain, forget, and relearn information over time to support lifelong learning.
@@ -20,19 +22,19 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Stack
 
 - **Languages & Libraries**: Python, Pandas, scikit-learn, Streamlit, Hugging Face Transformers  
-- **Core Areas**: Machine Learning, Natural Language Processing, Data Visualization  
-- **Current Focus**: Strengthening problem-solving and DSA skills for high-impact AI roles
+- **Core Areas**: Machine Learning, NLP, Data Visualization  
+- **Current Focus**: Strengthening my problem-solving and DSA skills for high-impact R&D roles in AI.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gunjan-shinde26)
-- ✉️ Email: gunjanshinde3962@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gunjan-shinde26)  
+- 📧 gunjanshinde3962@gmail.com  
 
 ---
 
-✨ Always open to collaboration, learning, and working on purpose-driven AI projects!
+✨ Always open to **collaborating, learning**, and contributing to projects that push boundaries and serve a meaningful purpose.
