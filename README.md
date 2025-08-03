@@ -1,40 +1,61 @@
-# 👋 Hey, I’m Gunjan Shinde
+<!-- Banner -->
+<img src="https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png" alt="banner" />
 
-🎓 I’m a recent **Bachelor of Computer Applications (BCA)** graduate from **Christ University**, driven by a deep curiosity about how **AI and data science** can make a real difference in the world.
+<h1 align="center">Hey 👋, I'm Gunjan Shinde</h1>
 
-From building tools that promote sustainability to exploring how machines can better understand themselves, I enjoy working on projects where **technology meets purpose**. I’m especially interested in the intersection of **AI, human behavior, and impact-driven innovation**.
-
----
-
-## 💡 Projects That Reflect My Vision
-
-- **🌱 EcoFootprint.AI**  
-  A sustainability-focused app designed to help users track and reduce their digital carbon footprint, featuring a real-time carbon calculator, AI-generated eco tips, gamification, and a “What If” simulator.
-
-- **🤖 SelfDoubt.AI**  
-  A conceptual exploration into how AI models might evaluate their own uncertainty — toward building more introspective and adaptive systems.
-
-- **🧬 MetaForgetting.AI**  
-  Inspired by how human memory evolves, this project investigates how AI models can retain, forget, and relearn information over time to support lifelong learning.
-
-- **🛰️ Space Health Research**  
-  Conducted and presented research on astronaut cardiovascular health monitoring using data analytics at the **SCI 2025 Conference**, hosted by **Sunway University, Malaysia**.
+<p align="center">
+🎓 BCA Graduate | 💡 AI Enthusiast | 🧠 Researcher | 🌱 Sustainability Advocate
+</p>
 
 ---
 
-## 🛠️ Skills & Stack
+### 🚀 About Me
 
-- **Languages & Libraries**: Python, Pandas, scikit-learn, Streamlit, Hugging Face Transformers  
-- **Core Areas**: Machine Learning, NLP, Data Visualization  
-- **Current Focus**: Strengthening my problem-solving and DSA skills for high-impact R&D roles in AI.
+I’m a recent **Bachelor of Computer Applications (BCA)** graduate from **Christ University**, deeply passionate about how **AI and data science** can spark meaningful change.
 
----
+My interests lie at the intersection of **technology, human behavior, and innovation** — whether it’s building sustainability tools or exploring the introspection of AI systems.
 
-## 🌐 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gunjan-shinde26)  
-- 📧 gunjanshinde3962@gmail.com  
+🔍 Currently building:
+- 🔭 AI tools that *think*, *doubt*, and *learn* like humans.
+- 🌍 Eco-conscious solutions that empower digital sustainability.
 
 ---
 
-✨ Always open to **collaborating, learning**, and contributing to projects that push boundaries and serve a meaningful purpose.
+### 🌟 Projects That Reflect My Vision
+
+- 🧪 **[EcoFootprint.AI](#)**  
+  A sustainability-focused app to help users track and reduce their digital carbon footprint — featuring a real-time calculator, AI-generated eco tips, and a “What If” simulator.
+
+- 🧠 **[SelfDoubt.AI](#)**  
+  A conceptual deep dive into how AI models might evaluate their own uncertainty — toward creating more introspective and adaptive systems.
+
+- 🔁 **[MetaForgetting.AI](#)**  
+  Inspired by human memory, this project investigates how AI can retain, forget, and relearn information over time to support lifelong learning.
+
+- 🧬 **[Space Health Research](#)**  
+  Conducted and presented data-driven research on astronaut cardiovascular health at the **SCI 2025 Conference, Sunway University, Malaysia**.
+
+---
+
+### 🛠️ Skills & Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FFB6C1?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-6A1B9A?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+### 📬 Let's Connect
+
+<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
+
+<p align="center">
+✨ “Where AI meets empathy and innovation meets purpose.” ✨
+</p>
