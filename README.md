@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png" alt="banner" />
+
 
 <h1 align="center">Hey 👋, I'm Gunjan Shinde</h1>
 
